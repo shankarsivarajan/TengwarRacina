@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1115869583
-ModificationTime: 1669336531
+ModificationTime: 1671218064
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -5680,8 +5680,8 @@ Width: 2
 GlyphClass: 4
 Flags: W
 AnchorPoint: "mkmk_down" 348 -900 basemark 0
-AnchorPoint: "mkmk_down" 348 -500 mark 0
-AnchorPoint: "TehtaBelow" 347 -500 mark 0
+AnchorPoint: "mkmk_down" 348 -400 mark 0
+AnchorPoint: "TehtaBelow" 347 -400 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5736,9 +5736,9 @@ Encoding: 77 57411 69
 Width: 2
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_down" 348 -500 mark 0
+AnchorPoint: "mkmk_down" 348 -400 mark 0
 AnchorPoint: "mkmk_down" 348 -750 basemark 0
-AnchorPoint: "TehtaBelow" 347 -500 mark 0
+AnchorPoint: "TehtaBelow" 347 -400 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5784,8 +5784,8 @@ Width: 2
 GlyphClass: 4
 Flags: W
 AnchorPoint: "mkmk_down" 167 -750 basemark 0
-AnchorPoint: "mkmk_down" 167 -500 mark 0
-AnchorPoint: "TehtaBelow" 167 -500 mark 0
+AnchorPoint: "mkmk_down" 167 -400 mark 0
+AnchorPoint: "TehtaBelow" 167 -400 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10664,7 +10664,7 @@ StartChar: lambe_bar_below
 Encoding: 154 -1 146
 Width: 2
 Flags: W
-AnchorPoint: "lambe_bar" 431 1300 mark 0
+AnchorPoint: "lambe_bar" 431 1400 mark 0
 LayerCount: 2
 Fore
 SplineSet
