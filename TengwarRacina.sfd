@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1115869583
-ModificationTime: 1671218064
+ModificationTime: 1671219065
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3813,7 +3813,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "inside" 900 220 basechar 0
 AnchorPoint: "shook" 1570 -100 basechar 0
-AnchorPoint: "lambe_bar" 900 500 basechar 0
+AnchorPoint: "lambe_bar" 1100 500 basechar 0
 AnchorPoint: "TehtaBelow" 900 0 basechar 0
 AnchorPoint: "TehtaAbove" 900 1200 basechar 0
 LayerCount: 2
@@ -3905,9 +3905,9 @@ Encoding: 48 57379 42
 Width: 1634
 GlyphClass: 2
 Flags: W
+AnchorPoint: "lambe_bar" 1100 500 basechar 0
 AnchorPoint: "inside" 1100 -250 basechar 0
 AnchorPoint: "shook" 1500 -100 basechar 0
-AnchorPoint: "lambe_bar" 900 500 basechar 0
 AnchorPoint: "TehtaBelow" 900 -900 basechar 0
 AnchorPoint: "TehtaAbove" 900 1200 basechar 0
 LayerCount: 2
@@ -10664,7 +10664,7 @@ StartChar: lambe_bar_below
 Encoding: 154 -1 146
 Width: 2
 Flags: W
-AnchorPoint: "lambe_bar" 431 1400 mark 0
+AnchorPoint: "lambe_bar" 491 1400 mark 0
 LayerCount: 2
 Fore
 SplineSet
