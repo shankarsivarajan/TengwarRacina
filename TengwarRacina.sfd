@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1115869583
-ModificationTime: 1683921813
+ModificationTime: 1683925182
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -870,7 +870,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 322560 161280 107520 0 -1048576 107520 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "inside" "'mark' Mark Positioning lookup 0-1" "shook" "'mark' Mark Positioning lookup 0-1" "mkmk_down" "'mkmk' Mark to Mark lookup 1-1" "mkmk_up" "'mkmk' Mark to Mark lookup 1-1" "lambe_bar" "'mark' Mark Positioning lookup 0-1" "TehtaBelow" "'mark' Mark Positioning lookup 0-1" "TehtaAbove" "'mark' Mark Positioning lookup 0-1" "Anchor-0"""  "Anchor-1"""  "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6"""  "Anchor-7"""  "Anchor-8""" 
-BeginChars: 159 158
+BeginChars: 160 159
 
 StartChar: space
 Encoding: 0 32 0
@@ -1205,7 +1205,7 @@ SplineSet
  439 -554 439 -554 390 -593 c 128,-1,51
  341 -632 341 -632 296 -676 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: parma
@@ -1271,7 +1271,7 @@ SplineSet
  402 104 l 1,60,-1
  600 104 l 1,53,54
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" parma.nofin
 Substitution2: "Single Substitution lookup 31 subtable" parma.nofin
 Substitution2: "Single Substitution lookup 30 subtable" parma.nofin
@@ -1339,7 +1339,7 @@ SplineSet
  462 183 462 183 476 179 c 1,55,-1
  643 312 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" calma.nofin
 Substitution2: "Single Substitution lookup 31 subtable" calma.nofin
 Substitution2: "Single Substitution lookup 30 subtable" calma.nofin
@@ -1400,7 +1400,7 @@ SplineSet
  395 697 395 697 395 652 c 2,47,-1
  395 310 l 2,36,37
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ando
@@ -1478,7 +1478,7 @@ SplineSet
  701 930 l 1,71,-1
  884 750 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: umbar
@@ -1557,7 +1557,7 @@ SplineSet
  402 104 l 1,74,-1
  600 104 l 1,67,68
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" umbar.nofin
 Substitution2: "Single Substitution lookup 31 subtable" umbar.nofin
 Substitution2: "Single Substitution lookup 30 subtable" umbar.nofin
@@ -1645,7 +1645,7 @@ SplineSet
  643 750 l 1,78,-1
  827 930 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" anga.nofin
 Substitution2: "Single Substitution lookup 31 subtable" anga.nofin
 Substitution2: "Single Substitution lookup 30 subtable" anga.nofin
@@ -1724,7 +1724,7 @@ SplineSet
  877 697 877 697 877 652 c 2,68,-1
  877 310 l 2,57,58
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: thuule
@@ -1795,7 +1795,7 @@ SplineSet
  114 182 114 182 134 210 c 1,70,-1
  134 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: formen
@@ -1867,7 +1867,7 @@ SplineSet
  346 104 l 1,70,-1
  544 104 l 1,63,64
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" formen.nofin
 Substitution2: "Single Substitution lookup 31 subtable" formen.nofin
 Substitution2: "Single Substitution lookup 30 subtable" formen.nofin
@@ -1946,7 +1946,7 @@ SplineSet
  643 312 l 1,74,-1
  643 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: hwesta
@@ -2022,7 +2022,7 @@ SplineSet
  665 909 l 1,77,-1
  665 1454 l 2,12,13
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: anto
@@ -2111,7 +2111,7 @@ SplineSet
  114 182 114 182 134 210 c 1,90,-1
  134 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ampa
@@ -2196,7 +2196,7 @@ SplineSet
  346 104 l 1,84,-1
  544 104 l 1,77,78
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" ampa.nofin
 Substitution2: "Single Substitution lookup 31 subtable" ampa.nofin
 Substitution2: "Single Substitution lookup 30 subtable" ampa.nofin
@@ -2295,7 +2295,7 @@ SplineSet
  1125 312 l 1,97,-1
  1125 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: unque
@@ -2389,7 +2389,7 @@ SplineSet
  1147 909 l 1,98,-1
  1147 1454 l 2,27,28
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: nuumen
@@ -2467,7 +2467,7 @@ SplineSet
  701 930 l 1,71,-1
  884 750 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: malta
@@ -2541,7 +2541,7 @@ SplineSet
  402 104 l 1,65,-1
  600 104 l 1,58,59
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" malta.nofin
 Substitution2: "Single Substitution lookup 31 subtable" malta.nofin
 Substitution2: "Single Substitution lookup 30 subtable" malta.nofin
@@ -2629,7 +2629,7 @@ SplineSet
  1374 75 1374 75 1325 36 c 128,-1,78
  1276 -3 1276 -3 1231 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" noldo.nofin
 Substitution2: "Single Substitution lookup 31 subtable" noldo.nofin
 Substitution2: "Single Substitution lookup 30 subtable" noldo.nofin
@@ -2708,7 +2708,7 @@ SplineSet
  877 697 877 697 877 652 c 2,68,-1
  877 310 l 2,57,58
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: oore
@@ -2768,7 +2768,7 @@ SplineSet
  439 75 439 75 390 36 c 128,-1,51
  341 -3 341 -3 296 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: vala
@@ -2829,7 +2829,7 @@ SplineSet
  402 104 l 1,51,-1
  600 104 l 1,44,45
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" vala.nofin
 Substitution2: "Single Substitution lookup 31 subtable" vala.nofin
 Substitution2: "Single Substitution lookup 30 subtable" vala.nofin
@@ -2897,7 +2897,7 @@ SplineSet
  892 75 892 75 843 36 c 128,-1,55
  794 -3 794 -3 749 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" anna.nofin
 Substitution2: "Single Substitution lookup 31 subtable" anna.nofin
 Substitution2: "Single Substitution lookup 30 subtable" anna.nofin
@@ -2958,7 +2958,7 @@ SplineSet
  395 697 395 697 395 652 c 2,47,-1
  395 310 l 2,36,37
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tinco_ext
@@ -3029,7 +3029,7 @@ SplineSet
  346 1452 346 1452 346 1410 c 2,70,-1
  346 691 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: parma_ext
@@ -3106,7 +3106,7 @@ SplineSet
  346 104 l 1,79,-1
  544 104 l 1,72,73
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" parma_ext.nofin
 Substitution2: "Single Substitution lookup 31 subtable" parma_ext.nofin
 Substitution2: "Single Substitution lookup 30 subtable" parma_ext.nofin
@@ -3185,7 +3185,7 @@ SplineSet
  643 312 l 1,74,-1
  643 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: quesse_ext
@@ -3261,7 +3261,7 @@ SplineSet
  665 909 l 1,77,-1
  665 1454 l 2,12,13
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ando_ext
@@ -3350,7 +3350,7 @@ SplineSet
  114 -447 114 -447 134 -419 c 1,90,-1
  134 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: umbar_ext
@@ -3440,7 +3440,7 @@ SplineSet
  346 104 l 1,93,-1
  544 104 l 1,86,87
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 32 subtable" umbar_ext.nofin
 Substitution2: "Single Substitution lookup 31 subtable" umbar_ext.nofin
 Substitution2: "Single Substitution lookup 30 subtable" umbar_ext.nofin
@@ -3539,7 +3539,7 @@ SplineSet
  1125 312 l 1,97,-1
  1125 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ungwe_ext
@@ -3633,7 +3633,7 @@ SplineSet
  1147 909 l 1,98,-1
  1147 1454 l 2,27,28
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: roomen
@@ -3715,7 +3715,7 @@ SplineSet
  391 614 l 1,82,-1
  391 52 l 1,72,73
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: arda
@@ -3803,7 +3803,7 @@ SplineSet
  531 614 l 1,88,-1
  531 52 l 1,78,79
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: lambe
@@ -3921,135 +3921,139 @@ EndChar
 
 StartChar: alda
 Encoding: 48 57379 42
-Width: 1612
+Width: 1664
 GlyphClass: 2
 Flags: W
-AnchorPoint: "TehtaBelow" 910 -900 basechar 0
+AnchorPoint: "TehtaBelow" 990 -900 basechar 0
 AnchorPoint: "lambe_bar" 1100 500 basechar 0
-AnchorPoint: "inside" 930 -250 basechar 0
+AnchorPoint: "inside" 1000 -250 basechar 0
 AnchorPoint: "shook" 1450 -100 basechar 0
 AnchorPoint: "TehtaAbove" 900 1200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-474 732 m 1,0,1
- 460 733 460 733 445.5 733.5 c 128,-1,2
- 431 734 431 734 416 734 c 0,3,4
- 354 734 354 734 295.5 720 c 128,-1,5
- 237 706 237 706 190 671 c 0,6,7
- 140 633 140 633 94 580 c 128,-1,8
- 48 527 48 527 19 450 c 0,9,10
- 17 444 17 444 11 445 c 128,-1,11
- 5 446 5 446 3 451 c 0,12,13
- 6 499 6 499 21.5 547.5 c 128,-1,14
- 37 596 37 596 61 642 c 128,-1,15
- 85 688 85 688 116 728 c 128,-1,16
- 147 768 147 768 181 800 c 0,17,18
- 216 832 216 832 258.5 855.5 c 128,-1,19
- 301 879 301 879 347.5 894.5 c 128,-1,20
- 394 910 394 910 443 917.5 c 128,-1,21
- 492 925 492 925 540 925 c 0,22,23
- 618 925 618 925 719.5 909 c 128,-1,24
- 821 893 821 893 928 876 c 0,25,26
- 978 868 978 868 1027 859.5 c 128,-1,27
- 1076 851 1076 851 1122.5 843.5 c 128,-1,28
- 1169 836 1169 836 1211.5 831.5 c 128,-1,29
- 1254 827 1254 827 1290 827 c 0,30,31
- 1327 827 1327 827 1355.5 831.5 c 128,-1,32
- 1384 836 1384 836 1410 849.5 c 128,-1,33
- 1436 863 1436 863 1465 888.5 c 128,-1,34
- 1494 914 1494 914 1533 956 c 0,35,36
- 1538 964 1538 964 1544 962.5 c 128,-1,37
- 1550 961 1550 961 1551 953 c 0,38,39
- 1552 948 1552 948 1552 943 c 2,40,-1
- 1552 933 l 2,41,42
- 1552 894 1552 894 1535 843.5 c 128,-1,43
- 1518 793 1518 793 1475.5 748 c 128,-1,44
- 1433 703 1433 703 1361.5 672 c 128,-1,45
- 1290 641 1290 641 1182 641 c 0,46,47
- 1151 641 1151 641 1105.5 646.5 c 128,-1,48
- 1060 652 1060 652 1006.5 660.5 c 128,-1,49
- 953 669 953 669 894.5 679.5 c 128,-1,50
- 836 690 836 690 779 699.5 c 128,-1,51
- 722 709 722 709 670 716 c 128,-1,52
- 618 723 618 723 577 726 c 1,53,54
- 555 706 555 706 537.5 690 c 128,-1,55
- 520 674 520 674 508 657 c 128,-1,56
- 496 640 496 640 489.5 620.5 c 128,-1,57
- 483 601 483 601 483 575 c 0,58,59
- 483 533 483 533 511 499.5 c 128,-1,60
- 539 466 539 466 583 440 c 128,-1,61
- 627 414 627 414 680.5 394.5 c 128,-1,62
- 734 375 734 375 785.5 361 c 128,-1,63
- 837 347 837 347 879.5 338 c 128,-1,64
- 922 329 922 329 944 324 c 0,65,66
- 1008 308 1008 308 1078.5 284 c 128,-1,67
- 1149 260 1149 260 1216 227.5 c 128,-1,68
- 1283 195 1283 195 1344 153 c 128,-1,69
- 1405 111 1405 111 1451 58.5 c 128,-1,70
- 1497 6 1497 6 1524 -57 c 128,-1,71
- 1551 -120 1551 -120 1551 -194 c 0,72,73
- 1551 -246 1551 -246 1537 -294 c 128,-1,74
- 1523 -342 1523 -342 1498 -384.5 c 128,-1,75
- 1473 -427 1473 -427 1437.5 -463.5 c 128,-1,76
- 1402 -500 1402 -500 1359 -530 c 0,77,78
- 1329 -551 1329 -551 1292.5 -572 c 128,-1,79
- 1256 -593 1256 -593 1216.5 -610 c 128,-1,80
- 1177 -627 1177 -627 1137 -637.5 c 128,-1,81
- 1097 -648 1097 -648 1060 -648 c 0,82,83
- 1018 -648 1018 -648 971.5 -638.5 c 128,-1,84
- 925 -629 925 -629 877 -617 c 0,85,86
- 826 -604 826 -604 772.5 -581 c 128,-1,87
- 719 -558 719 -558 675.5 -526 c 128,-1,88
- 632 -494 632 -494 604 -452.5 c 128,-1,89
- 576 -411 576 -411 576 -360 c 0,90,91
- 576 -317 576 -317 593 -275.5 c 128,-1,92
- 610 -234 610 -234 638.5 -198 c 128,-1,93
- 667 -162 667 -162 702.5 -133.5 c 128,-1,94
- 738 -105 738 -105 776 -87 c 0,95,96
- 792 -80 792 -80 805 -80 c 0,97,98
- 816 -80 816 -80 826 -83.5 c 128,-1,99
- 836 -87 836 -87 840 -95 c 1,100,101
- 805 -127 805 -127 783 -164 c 128,-1,102
- 761 -201 761 -201 761 -249 c 0,103,104
- 761 -279 761 -279 770 -303 c 128,-1,105
- 779 -327 779 -327 795 -346 c 128,-1,106
- 811 -365 811 -365 832.5 -380 c 128,-1,107
- 854 -395 854 -395 879 -407 c 0,108,109
- 912 -423 912 -423 951 -437.5 c 128,-1,110
- 990 -452 990 -452 1031 -463.5 c 128,-1,111
- 1072 -475 1072 -475 1112.5 -482 c 128,-1,112
- 1153 -489 1153 -489 1188 -489 c 0,113,114
- 1238 -489 1238 -489 1269.5 -465 c 128,-1,115
- 1301 -441 1301 -441 1324 -399 c 0,116,117
- 1340 -370 1340 -370 1351.5 -334.5 c 128,-1,118
- 1363 -299 1363 -299 1363 -259 c 0,119,120
- 1363 -175 1363 -175 1326 -111.5 c 128,-1,121
- 1289 -48 1289 -48 1230 -2 c 128,-1,122
- 1171 44 1171 44 1098 75 c 128,-1,123
- 1025 106 1025 106 954 124 c 0,124,125
- 911 135 911 135 844.5 149.5 c 128,-1,126
- 778 164 778 164 703.5 184 c 128,-1,127
- 629 204 629 204 554.5 230 c 128,-1,128
- 480 256 480 256 419.5 289.5 c 128,-1,129
- 359 323 359 323 321.5 366 c 128,-1,130
- 284 409 284 409 284 463 c 0,131,132
- 284 503 284 503 303.5 541.5 c 128,-1,133
- 323 580 323 580 351.5 615.5 c 128,-1,134
- 380 651 380 651 413.5 680.5 c 128,-1,135
- 447 710 447 710 474 732 c 1,0,1
-776.23828125 281.702148438 m 1,136,-1
- 663.977539062 281.618164062 l 1,137,-1
- 663.977539062 865.650390625 l 1,138,-1
- 776.232421875 865.650390625 l 1,139,-1
- 776.23828125 281.702148438 l 1,136,-1
-1177.97265625 -584.864257812 m 1,140,-1
- 1065.71191406 -584.948242188 l 1,141,-1
- 1065.71191406 177.083007812 l 1,142,-1
- 1177.96777344 177.083007812 l 1,143,-1
- 1177.97265625 -584.864257812 l 1,140,-1
+511 732 m 1,0,1
+ 497 733 497 733 482.5 733.5 c 128,-1,2
+ 468 734 468 734 453 734 c 0,3,4
+ 391 734 391 734 332.5 720 c 128,-1,5
+ 274 706 274 706 227 671 c 0,6,7
+ 177 633 177 633 131 580 c 128,-1,8
+ 85 527 85 527 56 450 c 0,9,10
+ 54 444 54 444 48 445 c 128,-1,11
+ 42 446 42 446 40 451 c 0,12,13
+ 43 499 43 499 58.5 547.5 c 128,-1,14
+ 74 596 74 596 98 642 c 128,-1,15
+ 122 688 122 688 153 728 c 128,-1,16
+ 184 768 184 768 218 800 c 0,17,18
+ 253 832 253 832 295.5 855.5 c 128,-1,19
+ 338 879 338 879 384.5 894.5 c 128,-1,20
+ 431 910 431 910 480 917.5 c 128,-1,21
+ 529 925 529 925 577 925 c 0,22,23
+ 655 925 655 925 756.5 909 c 128,-1,24
+ 858 893 858 893 965 876 c 0,25,26
+ 1015 868 1015 868 1064 859.5 c 128,-1,27
+ 1113 851 1113 851 1159.5 843.5 c 128,-1,28
+ 1206 836 1206 836 1248.5 831.5 c 128,-1,29
+ 1291 827 1291 827 1327 827 c 0,30,31
+ 1364 827 1364 827 1392.5 831.5 c 128,-1,32
+ 1421 836 1421 836 1447 849.5 c 128,-1,33
+ 1473 863 1473 863 1502 888.5 c 128,-1,34
+ 1531 914 1531 914 1570 956 c 0,35,36
+ 1575 964 1575 964 1581 962.5 c 128,-1,37
+ 1587 961 1587 961 1588 953 c 0,38,39
+ 1589 948 1589 948 1589 943 c 2,40,-1
+ 1589 933 l 2,41,42
+ 1589 894 1589 894 1572 843.5 c 128,-1,43
+ 1555 793 1555 793 1512.5 748 c 128,-1,44
+ 1470 703 1470 703 1398.5 672 c 128,-1,45
+ 1327 641 1327 641 1219 641 c 0,46,47
+ 1188 641 1188 641 1142.5 646.5 c 128,-1,48
+ 1097 652 1097 652 1043.5 660.5 c 128,-1,49
+ 990 669 990 669 931.5 679.5 c 128,-1,50
+ 873 690 873 690 816 699.5 c 128,-1,51
+ 759 709 759 709 707 716 c 128,-1,52
+ 655 723 655 723 614 726 c 1,53,54
+ 592 706 592 706 574.5 690 c 128,-1,55
+ 557 674 557 674 545 657 c 128,-1,56
+ 533 640 533 640 526.5 620.5 c 128,-1,57
+ 520 601 520 601 520 575 c 0,58,59
+ 520 533 520 533 548 499.5 c 128,-1,60
+ 576 466 576 466 620 440 c 128,-1,61
+ 664 414 664 414 717.5 394.5 c 128,-1,62
+ 771 375 771 375 822.5 361 c 128,-1,63
+ 874 347 874 347 916.5 338 c 128,-1,64
+ 959 329 959 329 981 324 c 0,65,66
+ 1045 308 1045 308 1115.5 284 c 128,-1,67
+ 1186 260 1186 260 1253 227.5 c 128,-1,68
+ 1320 195 1320 195 1381 153 c 128,-1,69
+ 1442 111 1442 111 1488 58.5 c 128,-1,70
+ 1534 6 1534 6 1561 -57 c 128,-1,71
+ 1588 -120 1588 -120 1588 -194 c 0,72,73
+ 1588 -246 1588 -246 1574 -294 c 128,-1,74
+ 1560 -342 1560 -342 1535 -384.5 c 128,-1,75
+ 1510 -427 1510 -427 1474.5 -463.5 c 128,-1,76
+ 1439 -500 1439 -500 1396 -530 c 0,77,78
+ 1366 -551 1366 -551 1329.5 -572 c 128,-1,79
+ 1293 -593 1293 -593 1253.5 -610 c 128,-1,80
+ 1214 -627 1214 -627 1174 -637.5 c 128,-1,81
+ 1134 -648 1134 -648 1097 -648 c 0,82,83
+ 1055 -648 1055 -648 1008.5 -638.5 c 128,-1,84
+ 962 -629 962 -629 914 -617 c 0,85,86
+ 863 -604 863 -604 809.5 -581 c 128,-1,87
+ 756 -558 756 -558 712.5 -526 c 128,-1,88
+ 669 -494 669 -494 641 -452.5 c 128,-1,89
+ 613 -411 613 -411 613 -360 c 0,90,91
+ 613 -317 613 -317 630 -275.5 c 128,-1,92
+ 647 -234 647 -234 675.5 -198 c 128,-1,93
+ 704 -162 704 -162 739.5 -133.5 c 128,-1,94
+ 775 -105 775 -105 813 -87 c 0,95,96
+ 829 -80 829 -80 842 -80 c 0,97,98
+ 853 -80 853 -80 863 -83.5 c 128,-1,99
+ 873 -87 873 -87 877 -95 c 1,100,101
+ 842 -127 842 -127 820 -164 c 128,-1,102
+ 798 -201 798 -201 798 -249 c 0,103,104
+ 798 -279 798 -279 807 -303 c 128,-1,105
+ 816 -327 816 -327 832 -346 c 128,-1,106
+ 848 -365 848 -365 869.5 -380 c 128,-1,107
+ 891 -395 891 -395 916 -407 c 0,108,109
+ 949 -423 949 -423 988 -437.5 c 128,-1,110
+ 1027 -452 1027 -452 1068 -463.5 c 128,-1,111
+ 1109 -475 1109 -475 1149.5 -482 c 128,-1,112
+ 1190 -489 1190 -489 1225 -489 c 0,113,114
+ 1275 -489 1275 -489 1306.5 -465 c 128,-1,115
+ 1338 -441 1338 -441 1361 -399 c 0,116,117
+ 1377 -370 1377 -370 1388.5 -334.5 c 128,-1,118
+ 1400 -299 1400 -299 1400 -259 c 0,119,120
+ 1400 -175 1400 -175 1363 -111.5 c 128,-1,121
+ 1326 -48 1326 -48 1267 -2 c 128,-1,122
+ 1208 44 1208 44 1135 75 c 128,-1,123
+ 1062 106 1062 106 991 124 c 0,124,125
+ 948 135 948 135 881.5 149.5 c 128,-1,126
+ 815 164 815 164 740.5 184 c 128,-1,127
+ 666 204 666 204 591.5 230 c 128,-1,128
+ 517 256 517 256 456.5 289.5 c 128,-1,129
+ 396 323 396 323 358.5 366 c 128,-1,130
+ 321 409 321 409 321 463 c 0,131,132
+ 321 503 321 503 340.5 541.5 c 128,-1,133
+ 360 580 360 580 388.5 615.5 c 128,-1,134
+ 417 651 417 651 450.5 680.5 c 128,-1,135
+ 484 710 484 710 511 732 c 1,0,1
+1021.83886719 -437.873046875 m 1,136,-1
+ 965.635742188 -340.6953125 l 1,137,-1
+ 1419.45996094 -78.6796875 l 1,138,-1
+ 1475.58789062 -175.895507812 l 1,139,-1
+ 1021.83886719 -437.873046875 l 1,136,-1
+1020.41992188 -207.125 m 1,140,-1
+ 964.216796875 -109.946289062 l 1,141,-1
+ 1331.43945312 102.069335938 l 1,142,-1
+ 1387.56640625 4.853515625 l 1,143,-1
+ 1020.41992188 -207.125 l 1,140,-1
+1054.97265625 -544.864257812 m 1,144,-1
+ 942.711914062 -544.948242188 l 1,145,-1
+ 942.711914062 757.083007812 l 1,146,-1
+ 1054.96777344 757.083007812 l 1,147,-1
+ 1054.97265625 -544.864257812 l 1,144,-1
 EndSplineSet
-Validated: 524293
 EndChar
 
 StartChar: silme
@@ -4127,7 +4131,7 @@ SplineSet
  591 317 l 1,75,-1
  591 621 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: silme_nuquerna
@@ -4205,7 +4209,7 @@ SplineSet
  320 614 l 1,75,-1
  320 310 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: esse
@@ -4316,7 +4320,7 @@ SplineSet
  295 -502 295 -502 309 -523 c 1,117,-1
  591 -409 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: esse_nuquerna
@@ -4429,7 +4433,7 @@ SplineSet
  616 1433 616 1433 602 1454 c 1,119,-1
  320 1340 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: hyarmen
@@ -4507,7 +4511,7 @@ SplineSet
  1125 93 1125 93 1085 62 c 128,-1,80
  1045 31 1045 31 1000 0 c 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: hwesta_sindarinwa
@@ -4598,7 +4602,7 @@ SplineSet
  630 702 l 1,95,-1
  630 1454 l 2,16,17
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: yanta
@@ -4664,7 +4668,7 @@ SplineSet
  122 307 l 1,64,-1
  316 226 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: uure
@@ -4718,7 +4722,7 @@ SplineSet
  777 792 777 792 833 771 c 1,44,-1
  833 128 l 1,6,7
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: aara
@@ -4778,7 +4782,7 @@ SplineSet
  148 763 l 1,58,-1
  79 709 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: halla
@@ -4823,7 +4827,7 @@ SplineSet
  114 182 114 182 134 210 c 1,42,-1
  134 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: telco
@@ -4858,7 +4862,7 @@ SplineSet
  439 75 439 75 390 36 c 128,-1,24
  341 -3 341 -3 296 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: stemless_tinco
@@ -4907,7 +4911,7 @@ SplineSet
  481 165 481 165 554 155 c 1,40,-1
  554 635 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: stemless_parma
@@ -4984,7 +4988,7 @@ SplineSet
  162 400 162 400 162 448 c 2,76,-1
  162 704 l 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: stemless_calma
@@ -5031,7 +5035,7 @@ SplineSet
  368 718 368 718 295 728 c 1,38,-1
  295 248 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 6 subtable" osse.tick
 Substitution2: "Single Substitution lookup 5 subtable" osse.tick
 Substitution2: "Single Substitution lookup 4 subtable" osse.tick
@@ -5099,7 +5103,7 @@ SplineSet
  84 826 84 826 40 864 c 1,56,-1
  61 900 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: telco_ligating
@@ -5151,7 +5155,7 @@ SplineSet
  438 75 438 75 389.5 36.5 c 128,-1,44
  341 -2 341 -2 296 -47 c 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: anna_sindarinwa
@@ -5214,7 +5218,7 @@ SplineSet
  892 75 892 75 843 36 c 128,-1,55
  794 -3 794 -3 749 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: anna_open
@@ -5264,7 +5268,7 @@ SplineSet
  771 75 771 75 722 36 c 128,-1,40
  673 -3 673 -3 628 -47 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: christopher_qu
@@ -5330,7 +5334,7 @@ SplineSet
  496 110 496 110 524 104 c 1,60,-1
  722 104 l 1,53,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: formen_reversed
@@ -5403,7 +5407,7 @@ SplineSet
  722 104 l 1,71,-1
  722 614 l 1,64,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: bombadil_hw
@@ -5487,7 +5491,7 @@ SplineSet
  507 316 l 1,84,-1
  507 878 l 1,74,75
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: tengwa_mh
@@ -5588,7 +5592,7 @@ SplineSet
  376 104 l 1,102,-1
  574 104 l 1,95,96
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: vaiya
@@ -5669,7 +5673,7 @@ SplineSet
  774.508789062 159.635742188 774.508789062 159.635742188 812.508789062 148.635742188 c 2,78,-1
  991.508789062 94.6357421875 l 2,45,46
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tripledot_above
@@ -5700,7 +5704,7 @@ SplineSet
  11 1348 l 1,11,-1
  146 1483 l 1,8,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tripledot_below
@@ -5730,7 +5734,7 @@ SplineSet
  168 -623 l 1,11,-1
  33 -488 l 1,8,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: doubledot_above
@@ -5755,7 +5759,7 @@ SplineSet
  11 1348 l 1,7,-1
  146 1483 l 1,4,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" amatixe amatixe
 LCarets2: 1 0
 EndChar
@@ -5782,7 +5786,7 @@ SplineSet
  168 -623 l 1,7,-1
  33 -488 l 1,4,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" unutixe unutixe
 LCarets2: 1 0
 EndChar
@@ -5804,7 +5808,7 @@ SplineSet
  11 1348 l 1,3,-1
  146 1483 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: unutixe
@@ -5824,7 +5828,7 @@ SplineSet
  168 -623 l 1,3,-1
  33 -488 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tecco_above
@@ -5850,7 +5854,7 @@ SplineSet
  84 1271 84 1271 103 1288 c 2,12,-1
  434 1576 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tecco_below
@@ -5876,7 +5880,7 @@ SplineSet
  124 -734 124 -734 143 -717 c 2,12,-1
  474 -429 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tecco_above_double
@@ -5913,7 +5917,7 @@ SplineSet
  337 1345 337 1345 357 1362 c 2,25,-1
  668 1650 l 1,13,14
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" tecco_above tecco_above
 LCarets2: 1 0
 EndChar
@@ -5952,7 +5956,7 @@ SplineSet
  317 -775 317 -775 337 -758 c 2,25,-1
  648 -470 l 1,13,14
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" tecco_below tecco_below
 LCarets2: 1 0
 EndChar
@@ -6000,7 +6004,7 @@ SplineSet
  62 1168 62 1168 60 1183 c 1,39,-1
  406 1557 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: rightcurl_below
@@ -6049,7 +6053,7 @@ SplineSet
  20 -718 20 -718 29 -710 c 6,43,-1
  505 -327 l 5,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: leftcurl_above
@@ -6098,7 +6102,7 @@ SplineSet
  583 1302 583 1302 568 1297 c 2,44,-1
  105 1093 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: leftcurl_below
@@ -6142,7 +6146,7 @@ SplineSet
  454 -301 454 -301 460 -315 c 1,38,-1
  122 -999 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: bar_above
@@ -6186,7 +6190,7 @@ SplineSet
  460 1165 460 1165 437 1173 c 2,35,-1
  204 1249 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 16 subtable" bar_above
 Substitution2: "Single Substitution lookup 15 subtable" bar_above
 Substitution2: "Single Substitution lookup 14 subtable" bar_above
@@ -6238,7 +6242,7 @@ SplineSet
  460 -635 460 -635 437 -627 c 2,35,-1
  204 -551 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 16 subtable" bar_below
 Substitution2: "Single Substitution lookup 15 subtable" bar_below
 Substitution2: "Single Substitution lookup 14 subtable" bar_below
@@ -6282,7 +6286,7 @@ SplineSet
  297 1763 l 1,23,-1
  284 1714 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 16 subtable" tengwa_tilde_narrow
 Substitution2: "Single Substitution lookup 15 subtable" tengwa_tilde_narrow
 Substitution2: "Single Substitution lookup 14 subtable" tengwa_tilde_narrow
@@ -6320,7 +6324,7 @@ SplineSet
  178 1422 l 1,11,-1
  43 1557 l 1,8,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: thinnas
@@ -6442,7 +6446,7 @@ SplineSet
  20 -718 20 -718 29 -710 c 2,43,-1
  505 -327 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 26 subtable" lambe_sarince
 Substitution2: "Single Substitution lookup 25 subtable" lambe_sarince
 Substitution2: "Single Substitution lookup 24 subtable" lambe_sarince
@@ -6486,7 +6490,7 @@ SplineSet
  350 1371 l 1,5,-1
  128 1166 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tehta_caron
@@ -6508,7 +6512,7 @@ SplineSet
  408 1319 l 1,5,-1
  630 1524 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: pusta
@@ -7044,7 +7048,7 @@ SplineSet
  481 165 481 165 554 155 c 1,40,-1
  554 635 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: digit_one
@@ -7105,7 +7109,7 @@ SplineSet
  84 826 84 826 40 864 c 1,56,-1
  61 900 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: digit_two
@@ -7191,7 +7195,7 @@ SplineSet
  1286 686 1286 686 1297 656 c 1,87,-1
  1279 652 l 1,22,23
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: digit_three
@@ -7301,7 +7305,7 @@ SplineSet
  162 868 162 868 184.5 867 c 128,-1,116
  207 866 207 866 237 866 c 0,43,44
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: digit_four
@@ -7383,7 +7387,7 @@ SplineSet
  743 1446 743 1446 720.5 1448 c 128,-1,87
  698 1450 698 1450 673 1450 c 0,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_five
@@ -7508,7 +7512,7 @@ SplineSet
  1338 686 1338 686 1349 656 c 1,143,-1
  1331 652 l 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_six
@@ -7660,7 +7664,7 @@ SplineSet
  1220 537 1220 537 1209 595.5 c 128,-1,176
  1198 654 1198 654 1175 705 c 1,155,156
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_seven
@@ -7742,7 +7746,7 @@ SplineSet
  764 1442 764 1442 738 1446 c 128,-1,87
  712 1450 712 1450 693 1450 c 0,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_eight
@@ -7855,7 +7859,7 @@ SplineSet
  1110 104 l 1,124,-1
  1308 104 l 1,117,118
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_nine
@@ -7981,7 +7985,7 @@ SplineSet
  1110 104 l 1,138,-1
  1308 104 l 1,131,132
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_ten
@@ -8056,7 +8060,7 @@ SplineSet
  345 889 l 1,75,-1
  558 715 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_eleven
@@ -8167,7 +8171,7 @@ SplineSet
  345 889 l 1,121,-1
  558 715 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: digit_twelve
@@ -8275,7 +8279,7 @@ SplineSet
  732 134 732 134 743 93 c 1,124,-1
  731 87 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: lsd_marker
@@ -8307,7 +8311,7 @@ SplineSet
  74.1923828125 -828.6015625 l 1,14,-1
  32.63671875 -862.301757812 l 1,4,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: harmasilme
@@ -8395,7 +8399,7 @@ SplineSet
  884 1397 884 1397 1054 1423 c 1,92,-1
  1054 1454 l 2,30,31
 EndSplineSet
-Validated: 1048609
+Validated: 33
 Ligature2: "Ligatures subtable" silme zwj harma
 LCarets2: 2 0 0
 EndChar
@@ -8495,7 +8499,7 @@ SplineSet
  643 312 l 1,102,-1
  643 1454 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" harma zwj tinco
 LCarets2: 2 0 0
 EndChar
@@ -8597,7 +8601,7 @@ SplineSet
  665 909 l 1,105,-1
  665 1454 l 2,12,13
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" hwesta zwj tinco
 LCarets2: 2 0 0
 EndChar
@@ -8635,7 +8639,7 @@ SplineSet
  -389 1763 l 1,23,-1
  -402 1714 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni2E31
@@ -8738,7 +8742,7 @@ SplineSet
  796 3 796 3 782 0 c 2,49,-1
  402 0 l 1,8,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: umbar.nofin
@@ -8810,7 +8814,7 @@ SplineSet
  402 104 l 1,63,-1
  600 104 l 1,56,57
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: formen.nofin
@@ -8873,7 +8877,7 @@ SplineSet
  134 81 l 1,57,-1
  134 1454 l 2,8,9
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ampa.nofin
@@ -8949,7 +8953,7 @@ SplineSet
  134 81 l 1,71,-1
  134 1454 l 2,19,20
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: malta.nofin
@@ -9016,7 +9020,7 @@ SplineSet
  402 104 l 1,54,-1
  600 104 l 1,47,48
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: vala.nofin
@@ -9070,7 +9074,7 @@ SplineSet
  402 104 l 1,40,-1
  600 104 l 1,33,34
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: parma_ext.nofin
@@ -9138,7 +9142,7 @@ SplineSet
  95 -475 95 -475 134 -419 c 1,66,-1
  134 1454 l 2,8,9
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: umbar_ext.nofin
@@ -9219,7 +9223,7 @@ SplineSet
  95 -475 95 -475 134 -419 c 1,80,-1
  134 1454 l 2,19,20
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: bombadil_hw.variant
@@ -9440,7 +9444,7 @@ SplineSet
  643 312 l 1,60,-1
  643 763 l 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: anna.nofin
@@ -9505,7 +9509,7 @@ SplineSet
  855 728 l 1,60,-1
  855 210 l 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: anga.nofin
@@ -9590,7 +9594,7 @@ SplineSet
  643 750 l 1,84,-1
  827 930 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: noldo.nofin
@@ -9675,7 +9679,7 @@ SplineSet
  643 750 l 1,84,-1
  827 930 l 1,0,-1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: NameMe.171
@@ -10130,7 +10134,7 @@ SplineSet
  87 1641 87 1641 118 1607 c 2,39,-1
  464 1233 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: lowdham_hw
@@ -10230,7 +10234,7 @@ SplineSet
  187.685546875 210.1640625 l 1,116,-1
  187.685546875 1454.1640625 l 2,81,82
 EndSplineSet
-Validated: 1048613
+Validated: 37
 EndChar
 
 StartChar: osse.tick
@@ -10284,7 +10288,7 @@ SplineSet
  537 -304 l 1,49,-1
  521 -292 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: bar_below_wide
@@ -10331,7 +10335,7 @@ SplineSet
  322 -344 322 -344 359 -353 c 2,39,-1
  717 -444 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 21 subtable" lambe_bar_below
 Substitution2: "Single Substitution lookup 20 subtable" lambe_bar_below
 Substitution2: "Single Substitution lookup 19 subtable" lambe_bar_below
@@ -10382,7 +10386,7 @@ SplineSet
  322 1446 322 1446 359 1437 c 2,39,-1
  717 1346 l 2,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tengwa_mh_beleriand
@@ -10472,7 +10476,7 @@ SplineSet
  370.990234375 103.99609375 l 1,89,-1
  568.990234375 103.99609375 l 1,82,83
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: sarince_end_up
@@ -10607,7 +10611,7 @@ SplineSet
  637 690 637 690 589 697 c 128,-1,85
  541 704 541 704 473 704 c 0,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: tironian_et
@@ -10686,7 +10690,7 @@ SplineSet
  637 690 637 690 589 697 c 128,-1,85
  541 704 541 704 473 704 c 0,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: lambe_bar_below
@@ -10802,7 +10806,7 @@ SplineSet
  843.146972656 1301.94091797 843.146972656 1301.94091797 828.147460938 1296.94140625 c 2,78,-1
  365.147460938 1092.94140625 l 1,45,46
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Ligature2: "Ligatures subtable" leftcurl_above leftcurl_above
 LCarets2: 1 0
 EndChar
@@ -10863,7 +10867,7 @@ SplineSet
  35.74609375 1168.08007812 35.74609375 1168.08007812 33.74609375 1183.08105469 c 1,57,-1
  379.74609375 1557.08105469 l 2,40,41
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Ligature2: "Ligatures subtable" rightcurl_above rightcurl_above
 LCarets2: 1 0
 EndChar
@@ -10888,7 +10892,7 @@ SplineSet
  277.981388439 1181.0625 277.981388439 1181.0625 200.154296875 1181.0625 c 0,10,11
  74.8979436026 1181.0625 74.8979436026 1181.0625 -6.6640625 1292.125 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tehta_grave
@@ -10913,7 +10917,7 @@ SplineSet
  84 1532 84 1532 123 1549 c 128,-1,12
  162 1566 162 1566 207 1576 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: yanta_above
@@ -10934,7 +10938,7 @@ SplineSet
  350 1371 l 1,5,-1
  128 1166 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: zwj
@@ -11125,7 +11129,14 @@ SplineSet
  20 -718 20 -718 29 -710 c 2,43,-1
  505 -327 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
+EndChar
+
+StartChar: NameMe.159
+Encoding: 159 -1 158
+Width: 1612
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
