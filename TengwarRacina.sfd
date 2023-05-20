@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1115869583
-ModificationTime: 1683946470
+ModificationTime: 1684612876
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2842,8 +2842,8 @@ Encoding: 35 57366 29
 Width: 1045
 GlyphClass: 2
 Flags: W
+AnchorPoint: "shook" 750 100 basechar 0
 AnchorPoint: "inside" 500 450 basechar 0
-AnchorPoint: "shook" 800 800 basechar 0
 AnchorPoint: "TehtaAbove" 575 1200 basechar 0
 AnchorPoint: "TehtaBelow" 500 -150 basechar 0
 LayerCount: 2
@@ -5164,8 +5164,8 @@ Encoding: 65 57397 59
 Width: 1045
 GlyphClass: 2
 Flags: W
+AnchorPoint: "shook" 750 100 basechar 0
 AnchorPoint: "inside" 500 450 basechar 0
-AnchorPoint: "shook" 800 800 basechar 0
 AnchorPoint: "TehtaAbove" 575 1200 basechar 0
 AnchorPoint: "TehtaBelow" 500 -150 basechar 0
 LayerCount: 2
@@ -5227,8 +5227,8 @@ Encoding: 66 57398 60
 Width: 924
 GlyphClass: 2
 Flags: W
+AnchorPoint: "shook" 630 100 basechar 0
 AnchorPoint: "inside" 400 450 basechar 0
-AnchorPoint: "shook" 700 800 basechar 0
 AnchorPoint: "TehtaBelow" 350 -150 basechar 0
 AnchorPoint: "TehtaAbove" 425 1200 basechar 0
 LayerCount: 2
